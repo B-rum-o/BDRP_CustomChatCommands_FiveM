@@ -1,4 +1,4 @@
-# BDRP_CustomChatCommands
+# BDRP_CustomChatCommands_FiveM
 
 - This script is completely primitive
 - It is very easy to work with it and add new commands
